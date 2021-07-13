@@ -1,0 +1,57 @@
+body {
+    padding-top: 60px;
+    font-size:25px;
+    color:white;
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Open Sans', sans-serif;
+    /* background: #f5fce3;
+    background: -webkit-linear-gradient(to right, #f5fce3, #e1e6d6 );
+    background: linear-gradient(to right, #f5fce3,#e1e6d6 ); */
+    background-color: #6b0f1a;
+background-image: linear-gradient(315deg, #6b0f1a 0%, #b91372 74%);
+}
+.transferMoney{
+color:white;
+/* background: #91c1c9;
+background: -webkit-linear-gradient(to bottom,  #91c1c9, #5e9da8 );
+background: linear-gradient(to bottom, #91c1c9, #3a5f66); */
+background-color: #6b0f1a;
+background-image: linear-gradient(315deg, #6b0f1a 0%, #b91372 74%);
+padding: 20px;
+position:fixed;
+top:50%;
+left:50%;
+transform: translate(-50%, -50%);
+font-size: 35px;
+}
+.proceed{
+    background-color: #ff93c0; /* Green */
+  border: none;
+  
+  padding: 5px 2px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+}
+input{
+    font-family: 'Open Sans', sans-serif;
+        border: none;
+        border-bottom: 2px solid rgb(233, 169, 190);
+        
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+ 
+      
+}
+td{
+    font-size: 25px;
+}
+
